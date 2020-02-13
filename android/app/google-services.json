@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "28253908070",
+    "firebase_url": "https://jawa-app.firebaseio.com",
+    "project_id": "jawa-app",
+    "storage_bucket": "jawa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28253908070:android:2fc8145c8f640064bd51a7",
+        "android_client_info": {
+          "package_name": "com.example.maps_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28253908070-6ck0udospm7tpq4eqk00l529ejd8a77b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maps_app",
+            "certificate_hash": "796b956f6b77105ee30e103f8ea989310a78ad6e"
+          }
+        },
+        {
+          "client_id": "28253908070-bhbcq905tbs3k2njhg5hv6ustnh1v467.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JxD6OeoTS2eMAgrvk8oOzhfEexjt6Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28253908070-bhbcq905tbs3k2njhg5hv6ustnh1v467.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28253908070:android:8206af090e7f7bafbd51a7",
+        "android_client_info": {
+          "package_name": "com.jawadev.jawaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28253908070-bhbcq905tbs3k2njhg5hv6ustnh1v467.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JxD6OeoTS2eMAgrvk8oOzhfEexjt6Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28253908070-bhbcq905tbs3k2njhg5hv6ustnh1v467.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
